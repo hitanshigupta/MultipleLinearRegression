@@ -24,9 +24,10 @@ It encompasses 96453, instances with 12 attributes.<br/>
 
 **Methodology**
 - Data Preprocessing
-- Feature Selection (Response and Predictor Variables)
+- Feature Selection (Response and Predictor Variables)<br/>
 Response Variable(Y) = Apparent Temperature<br/>
-Predictor Variables(Xi’s) : X1 = Air Temperature<br/>
+Predictor Variables(Xi’s):<br/>
+X1 = Air Temperature<br/>
 X2 = Humidity<br/>
 X3 = Wind Speed<br/>
 X4 = Visibility<br/>
